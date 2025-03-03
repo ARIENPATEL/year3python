@@ -1,0 +1,23 @@
+print("WELCOME TO MAD-LIB")
+print("Please answer the following questions")
+print("")
+
+adjective1 = input("Enter an adjective: ")
+verb1 = input("Enter a verb")
+verb2 = input("Enter a verb")
+adjective2 = input("Enter an adjective: ")
+noun1 = input("Enter a noun")
+adjective3 = input("Enter an adjective: ")
+noun2 = input("Enter a noun")
+noun3 = input("Enter a noun")
+adjective4 = input("Enter an adjective: ")
+verb3 = input("Enter a verb")
+noun4 = input("Enter a noun")
+
+
+
+print("School is a", adjective1, "place where you",verb1, "and",verb2)
+print("The teachers are", adjective2," and have too much",noun1)
+print("Many pupils are", adjective3, "and learn about", noun2, "and", noun3)
+print("School food is",adjective4," and people", verb3," in the cantiene.")
+print("As studients, our best lesson is learning about", noun4) 
