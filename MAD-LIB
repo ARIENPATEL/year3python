@@ -3,16 +3,16 @@ print("Please answer the following questions")
 print("")
 
 adjective1 = input("Enter an adjective: ")
-verb1 = input("Enter a verb")
-verb2 = input("Enter a verb")
+verb1 = input("Enter a verb: ")
+verb2 = input("Enter a verb: ")
 adjective2 = input("Enter an adjective: ")
-noun1 = input("Enter a noun")
+noun1 = input("Enter a noun: ")
 adjective3 = input("Enter an adjective: ")
-noun2 = input("Enter a noun")
-noun3 = input("Enter a noun")
+noun2 = input("Enter a noun: ")
+noun3 = input("Enter a noun: ")
 adjective4 = input("Enter an adjective: ")
-verb3 = input("Enter a verb")
-noun4 = input("Enter a noun")
+verb3 = input("Enter a verb: ")
+noun4 = input("Enter a noun: ")
 
 
 
