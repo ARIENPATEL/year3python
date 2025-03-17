@@ -1,0 +1,11 @@
+print("Welcome to this club!")
+print("You have to be over 18 to enter")
+print("")
+age = int(input("What is your age: "))
+invite = input("Do you have an invite? Answer y or n: ")
+member = input("Are you a member? Answer y or n: ")
+
+if age >=18 and (invite == "y" or member == "y"):
+  print("Enter")
+else:
+  print("You are not allowed")
